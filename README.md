@@ -1,4 +1,4 @@
-<h1 align="center"> Projetos </h1>
+<h1 align="center"> 📂 Projetos </h1>
 
 # 💻
 
@@ -7,7 +7,9 @@
 3. [Projetos Pessoais](#projetos-pessoais)
 
 ## Desenvolvidos para a graduação
-- [Pezzo d'Amore](https://github.com/rmftelier/pezzodamore) 🍫 Site desenvolvido para a Doceria Pezzo d'Amore que foi submetido como projeto final do semestre da disciplina Construção de Software para Web.  
+- [Pezzo d'Amore](https://github.com/rmftelier/pezzodamore) 🍫 Site desenvolvido para a Doceria Pezzo d'Amore que foi submetido como projeto final do semestre da disciplina Construção de Software para Web. 
+
+- [Tudo Sobre Livros](https://github.com/rmftelier/tudo-sobre-livros) 📚 Criação e manipulação de um banco de dados desenvolvido para submissão como projeto do segundo bimestre da disciplina de Design e Desenvolvimento de Banco de Dados II. 
 
 ## Praticando 
 
